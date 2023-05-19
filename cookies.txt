@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.regtransfers.co.uk	TRUE	/	FALSE	1999999999	.Regtransfers.Session	CfDJ8BPAqUFFzYJCoByaxy26xA3LzzNZ2ROteweYGemPyMbSJsZuZgnhflLaxUf6KXG5jrI2T1Chadz%2FWSWyCCD9hNWjD8a2pL1m9cc%2B0UHdmj0a%2Fw6xKf%2FTHzv1WsuYAFGAqIos5acia9OTPo9f4K27MYejvbeQYwIijLy%2B5vPXlX3x
+www.regtransfers.co.uk	TRUE	/	FALSE	1999999999	.AspNetCore.Antiforgery.C7iGtdEwQ_8	CfDJ8BPAqUFFzYJCoByaxy26xA3uvVhHDHARbRNEMBuG9uOMfcMaV5NcnJ5t42J0vJl7pNZIJXWn7vpBVzbCPYVEgElvlown5ArFqycB-vGNfOvJSihn4HJgREMhFOEF-YBbzuFR3OqRMvuQuZAqYWowc7I
+www.regtransfers.co.uk	TRUE	/	FALSE	1999999999	samesite	strict
+www.regtransfers.co.uk	TRUE	/	FALSE	1999999999	RTSessionGuid	0a80c101-ede3-4ee7-9d85-fff65eede78c
+www.regtransfers.co.uk	TRUE	/	FALSE	1999999999	DirectLine	01582%20967777
+

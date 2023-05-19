@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 May 2023 07:55:08 at https://www.regtransfers.co.uk/auction/current-listings +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.regtransfers.co.uk/auction/current-listings -O1 "C:\Users\joesh\OneDrive\Desktop\reg plates real" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:55:43	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.regtransfers.co.uk/auction/current-listings)
+07:56:11	Warning: 	Moved Permanently for https://www.regtransfers.co.uk/auction/
+07:56:11	Warning: 	File has moved from https://www.regtransfers.co.uk/auction/ to /auction
+09:16:56	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.regtransfers.co.uk/auction/current-listings?page=4613&Search=&Platetype=&SortBy=-1&buyitnow=&pagesize=24 (from https://www.regtransfers.co.uk/auction/current-listings?page=4614&pagesize=24)
+10:37:31	Error: 	Unable to write HTML file C:/Users/joesh/OneDrive/Desktop/reg plates real/www.regtransfers.co.uk/auction/current-listingsff39.html: No space left on device
+10:37:31	Error: 	* * Fatal write error, giving up
+10:37:31	Error: 	Exit requested by engine
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 42 minutes 23 seconds : 18632 links scanned, 18627 files written (1020256421 bytes overall) [295173587 bytes received at 30295 bytes/sec], 1020173573 bytes transferred using HTTP compression in 18619 files, ratio 27%, 89.9 requests per connection
+(4 errors, 3 warnings, 0 messages)
